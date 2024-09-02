@@ -1,0 +1,43 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Principal",
+            "request": "launch",
+            "mainClass": "modelo.Principal",
+            "projectName": "construcao-civil_c05c5fa5"
+        },
+        {
+            "type": "java",
+            "name": "Producao",
+            "request": "launch",
+            "mainClass": "Producao",
+            "projectName": "estoque_1e9d9251"
+        },
+        {
+            "type": "java",
+            "name": "Producao",
+            "request": "launch",
+            "mainClass": "model.Producao",
+            "projectName": "estoque_1e9d9251"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "console": "integratedTerminal",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Producao",
+            "request": "launch",
+            "mainClass": "model.Producao",
+            "projectName": "estoque_5ee02f1e"
+        }
+    ]
+}
